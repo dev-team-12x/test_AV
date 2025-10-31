@@ -1,8 +1,35 @@
 Microsoft Windows [Version 10.0.26100.6899]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\Hoa>cmd /k whoami
-desktop-g78s5f8\hoa
+C:\Users\Hoa>cmd /k dir
+ Volume in drive C has no label.
+ Volume Serial Number is 9827-866C
+
+ Directory of C:\Users\Hoa
+
+10/31/2025  03:51 PM    <DIR>          .
+10/05/2025  10:11 PM    <DIR>          ..
+10/23/2025  08:48 PM    <DIR>          .dotnet
+10/31/2025  03:51 PM    <DIR>          .nuget
+10/22/2025  09:41 AM    <DIR>          .ssh
+10/05/2025  11:01 PM    <DIR>          .templateengine
+10/29/2025  09:29 PM    <DIR>          .vscode
+10/05/2025  10:33 PM            49,152 calc2.exe
+10/05/2025  09:59 PM    <DIR>          Contacts
+10/31/2025  02:19 PM    <DIR>          Desktop
+10/29/2025  10:26 AM    <DIR>          Documents
+10/31/2025  03:05 PM    <DIR>          Downloads
+10/05/2025  09:59 PM    <DIR>          Favorites
+10/05/2025  09:59 PM    <DIR>          Links
+10/05/2025  09:59 PM    <DIR>          Music
+10/31/2025  03:01 PM    <DIR>          OneDrive
+10/05/2025  09:59 PM    <DIR>          Pictures
+10/05/2025  09:59 PM    <DIR>          Saved Games
+10/05/2025  10:11 PM    <DIR>          Searches
+10/30/2025  02:56 PM    <DIR>          source
+10/05/2025  09:47 PM    <DIR>          Videos
+               1 File(s)         49,152 bytes
+              20 Dir(s)  305,287,229,440 bytes free
 
 C:\Users\Hoa>
 C:\Users\Hoa>
