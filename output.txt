@@ -1,9 +1,9 @@
 Microsoft Windows [Version 10.0.26100.6899]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\Hoa>cmd /k whoami
-desktop-g78s5f8\hoa
+C:\Users\RB7\Downloads\Release>cmd /k whoami
+desktop-9lnaghj\rb7
 
-C:\Users\Hoa>
-C:\Users\Hoa>
-C:\Users\Hoa>
+C:\Users\RB7\Downloads\Release>
+C:\Users\RB7\Downloads\Release>
+C:\Users\RB7\Downloads\Release>
